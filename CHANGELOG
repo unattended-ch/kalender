@@ -1,0 +1,19 @@
+2019.02.20	1.0.0.10	Fehler : Termin löschen behoben
+				Überschrift Tag und Woche grösser
+2019.02.22	1.0.0.11	Such-Funktion eingebaut
+				Hintergrundfarbe einstellbar
+				Knöpfe entfernt und im Menü hinzugefügt
+2019.02.24	1.0.0.12	Druckformate angepasst
+				Einstellungen ändern ohne neustart
+				Tagesanzeige : Anzahl der Tage für Anzeige
+				Default Kalender einstellbar
+2019.02.26	1.0.0.14	Slider für anz. Tage im Menü
+				tvplanit v1.4.0
+2019.02.28	1.0.0.15	Stundenschritte einstellbar
+				Datumsformat einstellungen
+				1.Click bearbeiten ein/aus
+2019.03.08	1.0.0.16	Tages- und Wochen-Ansicht Zeitanzeige ein/aus
+				Nur Startzeit anzeigen
+2020.05.05	2.0.0.0		Debian Version
+				Konfiguration in ~/.kalender
+				mySQL 5.7 Datanbank
