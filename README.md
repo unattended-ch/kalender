@@ -23,7 +23,7 @@
        - Import data from .ICS file
 
 ### FILES
-    ~/.kalender				- Calendar configuration file
+    ~/.kalender			- Calendar configuration file
     /usr/local/bin/kalender		- Main program
     /usr/local/bin/CreateCalendarDB	- Create Calendar Database the first time
     /usr/local/bin/printerdef.xml	- Printer configuration file
