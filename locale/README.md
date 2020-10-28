@@ -1,5 +1,8 @@
 ## kalender.po language translation
 
+    The translation for de and fr is finished.
+    All other languages are unfinished.
+
 #### Original file for translation
     ./kalender.po
 
