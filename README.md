@@ -14,6 +14,8 @@
 
        kalender <Enter>
 
+       Kalender is written with Lazarus and the tvplanit packages
+
 ### SYNOPSIS
 
        - Use mySQl Database to store records, min. mySQL 5.6 required
