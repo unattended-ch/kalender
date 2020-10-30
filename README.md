@@ -18,7 +18,7 @@
 
 ### SYNOPSIS
 
-       - Use mySQl Database to store records, min. mySQL 5.6 required
+       - Use mySQl Database to store records, min. mySQL 5.7 required
        - Use CreateCalendarDB to create the calendar database
        - Calendars can be edited by multiple users at the same time
        - Users can have more than one calendar
