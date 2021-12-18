@@ -2,8 +2,8 @@
 
 ## kalender
 
-[![Release version](https://img.shields.io/github/v/release/unattended-ch/admm?color=blue&label=&style=for-the-badge)](https://github.com/unattended-ch/admm/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/unattended-ch/admm/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/admm/releases/latest)
+[![Release version](https://img.shields.io/github/v/release/unattended-ch/kalender?color=blue&label=&style=for-the-badge)](https://github.com/unattended-ch/kalender/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/kalender/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/kalender/releases/latest)
 
 </div>
 
